@@ -14,6 +14,5 @@ def get_the_values(groceries)
     vegetable: ["carrots", "broccoli", "cucumbers"],
     meat: ["chicken", "steak", "salmon"],
     grains: ["rice", "pasta"]}
-  groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
 return groceries.values
 end
